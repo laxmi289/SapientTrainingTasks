@@ -1,0 +1,8 @@
+.container {
+    display: flex;
+}
+
+.result .active {
+    background-color: darkcyan;
+    color: white;
+}

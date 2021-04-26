@@ -1,0 +1,36 @@
+body {
+    font-size: 1.4rem;
+}
+
+
+/* h1,
+p {
+    text-align: center;
+} */
+
+
+/* .item ul {
+    margin-left: 38%;
+} */
+
+.item ul li {
+    list-style-type: none;
+    display: flex;
+    padding: 10px;
+}
+
+.questions button {
+    padding: 9px 16px;
+    background-color: rgb(56, 98, 236);
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.result button {
+    padding: 9px 16px;
+    background-color: rgb(6, 155, 31);
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+}
